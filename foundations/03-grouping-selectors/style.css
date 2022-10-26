@@ -1,0 +1,11 @@
+.inverted {
+    background-color: black;
+    color: white;
+}
+.differ {
+    background-color: yellow;
+}
+.differ , .inverted {
+    font-size: 28px;
+    font-family: Helvetica , "Times New Roman", sans-serif;
+}
